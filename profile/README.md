@@ -4,7 +4,7 @@
 
 ### Play. Build. Ship.
 
-Roblox @ Mason is a student organization at George Mason University
+Roblox Dev Club is a student organization at George Mason University
 focused on community gaming, game development, and collaborative creation
 within the Roblox ecosystem.
 
